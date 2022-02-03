@@ -12,11 +12,11 @@
 
 
 ## Experience ##
-1. As an **Associate Software Engineer** at *Quantum Data Engines* I was responsible for 
+**1.** As an **Associate Software Engineer** at *Quantum Data Engines* I was responsible for 
 - developing a chatbot from scratch using NLP for intent extraction, machine learning alogrithms for intent classification and providing appropriate intent based response for the user queries.
 - Working on Optical Character Recognition techniques for digitalizing B2B invoices using OpenCV.
 - Working on many other technologies like Java Spring boot, React Js.
-2. As an **Software developer Intern** at *Servicenow* I was responsible for developing algorithms for extracting intents from natural language queries by the users and maintaining them in well designed relational databases.
+**2.** As an **Software developer Intern** at *Servicenow* I was responsible for developing algorithms for extracting intents from natural language queries by the users and maintaining them in well designed relational databases.
 
 ## Projects ##
 1. Intent Based responding Chatbot
