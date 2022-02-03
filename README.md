@@ -5,5 +5,5 @@ This is a repository by Abdul Salam Kagaji (XH61938) for DATA 690 (Stats and Vis
 
 # Repository Summary:
 This repository consits of the following
- - Assignements
+ - Course Assignements
  - Personal Projects in relation to DATA 690
